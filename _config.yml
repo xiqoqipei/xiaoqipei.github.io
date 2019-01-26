@@ -1,7 +1,7 @@
-title: Xiaoqipei.GitHub.io
-description: 小汽配
+title: 小汽配
+description: 广州辉凡信息科技有限公司@版权所有 <a href="http://www.miitbeian.gov.cn/">粤ICP备13011812号-9</a>
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-cayman
 
 gems:
